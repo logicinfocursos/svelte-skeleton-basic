@@ -1,0 +1,91 @@
+[
+    {
+        "id": "1",
+        "code": "prod_1",
+        "name": "Câmera",
+        "overview": "Câmera de Ação 4K - a prova d`água",
+        "categorycode": "cat01",
+        "image": "https://a-static.mlcdn.com.br/450x450/camera-de-acao-wifi-filmadora-sport-4k-sc02-full-hd-20mp-mergulho-moto-bike-surf-prova-d-agua-ip68-click/clickfull/49192560856/544a571b135d8c608b8394a982531be1.jpeg",
+        "status": 1
+    },
+    {
+        "id": "2",
+        "code": "prod_2",
+        "name": "Impressora",
+        "overview": "Impressora a cor multifuncional Epson EcoTank L3250 com wifi preta 110V",
+        "categorycode": "cat01",
+        "image": "https://i.zst.com.br/thumbs/12/b/17/-13425120.jpg",
+        "status": 1
+    },
+    {
+        "id": "3",
+        "code": "prod_3",
+        "name": "Teclado",
+        "overview": "Teclado Mecânico RGB",
+        "categorycode": "cat01",
+        "image": "https://cdn.awsli.com.br/600x450/1154/1154595/produto/76182625/faa4f27618.jpg",
+        "status": 1
+    },
+    {
+        "id": "4",
+        "code": "prod_4",
+        "name": "Mouse",
+        "overview": "Mouse sem fio Logitech M185 cinza",
+        "categorycode": "cat01",
+        "image": "https://redragon.in/cdn/shop/collections/B079DY7GGB.MAIN.jpg?v=1623067062",
+        "status": 1
+    },
+    {
+        "id": "5",
+        "code": "prod_5",
+        "name": "Notebook",
+        "overview": "Notebook Gamer",
+        "categorycode": "cat01",
+        "image": "https://images.kabum.com.br/produtos/fotos/339504/notebook-gamer-acer-nitro-5-amd-ryzen-7-4800h-geforce-gtx-1650-8gb-ram-ssd-256gb-hdd-1tb-15-6-fhd-ips-144hz-windows-11-an515-44-r629_1652732334_original.jpg",
+        "status": 1
+    },
+    {
+        "id": "6",
+        "code": "prod_6",
+        "name": "Notebook",
+        "overview": "Notebook Ultraleve",
+        "categorycode": "cat01",
+        "image": "https://distcoimbra.vteximg.com.br/arquivos/ids/181261-1000-1000/fone-de-ouvido-nokia-bluetooth-50-essential-wireless-preto-ph339-1.jpg?v=637836657037430000",
+        "status": 1
+    },
+    {
+        "id": "7",
+        "code": "prod_7",
+        "name": "Notebook Ultrabook 15",
+        "overview": "Notebook",
+        "categorycode": "cat01",
+        "image": "https://distcoimbra.vteximg.com.br/arquivos/ids/181261-1000-1000/fone-de-ouvido-nokia-bluetooth-50-essential-wireless-preto-ph339-1.jpg?v=637836657037430000",
+        "status": 1
+    },
+    {
+        "id": "8",
+        "code": "prod_8",
+        "name": "Fone de Ouvido",
+        "overview": "Fone de Ouvido sem Fio",
+        "categorycode": "cat01",
+        "image": "https://distcoimbra.vteximg.com.br/arquivos/ids/181261-1000-1000/fone-de-ouvido-nokia-bluetooth-50-essential-wireless-preto-ph339-1.jpg?v=637836657037430000",
+        "status": 1
+    },
+    {
+        "id": "9",
+        "code": "prod_9",
+        "name": "Carregador",
+        "overview": "Carregador Portátil",
+        "categorycode": "cat01",
+        "status": 1
+    },
+    {
+        "id": "10",
+        "code": "prod_10",
+        "name": "Smartwatch",
+        "overview": "Smartwatch Fitness",
+        "categorycode": "cat01",
+        "image": "https://distcoimbra.vteximg.com.br/arquivos/ids/181261-1000-1000/fone-de-ouvido-nokia-bluetooth-50-essential-wireless-preto-ph339-1.jpg?v=637836657037430000",
+        "status": 1
+    }
+]

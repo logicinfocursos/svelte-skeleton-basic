@@ -3,7 +3,7 @@
     {  "title": "produtos",  "href": "/products",  "status": 2 },
     {  "title": "portifólio",  "href": "/portfolio",  "status": 1 },
     {  "title": "perguntas frequentes",  "href": "/faq",  "status": 1 },
-    {  "title": "sobre nós",  "href": "/about",  "status": 2 },
+    {  "title": "sobre nós",  "href": "/about",  "status": 1 },
     {  "title": "contato",  "href": "/contact",  "status": 1 },
     {  "title": "blog",  "href": "/blog",  "status": 2 }
   ]

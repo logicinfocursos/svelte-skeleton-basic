@@ -20,11 +20,26 @@
       <ul class="navbar-nav ms-auto">
         {#each menuItems as { title, href, status }}
           {#if status === 1}
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link" {href}>{title}</a>
             </li>
           {/if}
         {/each}
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="/login" role="button" data-bs-toggle="dropdownx" aria-expanded="false">
+            login
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/profile">perfil</a></li>
+            <li><a class="dropdown-item" href="/orders">pedidos</a></li>
+            <li><a class="dropdown-item" href="mycart">meu carrinho</a></li>
+            <li><a class="dropdown-item" href="/wishlist">favoritos</a></li>
+
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="/login">logout</a></li>
+          </ul>
+        </li>
       </ul>
     </div>
   </div>
